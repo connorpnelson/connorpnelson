@@ -9,7 +9,7 @@
 
 - [Udemy: The Complete SQL Bootcamp Certification](https://github.com/connorpnelson/SQLcertification)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect With Me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
