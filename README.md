@@ -34,7 +34,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/bydanumberz
-[youtube]: https://www.youtube.com/c/IAmCNelly
+[youtube]: https://www.youtube.com/@IAmCNelly
 [instagram]: https://www.instagram.com/connorpnelson/
 [linkedin]: https://linkedin.com/in/nelsonconnor
 
