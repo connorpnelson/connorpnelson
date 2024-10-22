@@ -3,11 +3,12 @@
 <h2>👨‍💻 Analytics Projects:</h2>
 
 - <b>Place holder</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Place Holder](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 SQL & Python Practice</h2>
 
-- [Udemy: The Complete SQL Bootcamp Certification](https://github.com/connorpnelson/SQLcertification)
+- <b>SQL</b>
+  - [Udemy: The Complete SQL Bootcamp Certification](https://github.com/connorpnelson/SQLcertification)
 
 <h2> 🤳 Connect With Me:</h2>
 
