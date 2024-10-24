@@ -3,7 +3,7 @@
 <h2>👨‍💻 Analytics Projects:</h2>
 
 - <b>Place holder</b>
-  - [Place Holder](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Analyzing E-Commerce Data](https://github.com/connorpnelson/ECommerceSales)
 
 <h2>👨‍💻 SQL & Python Practice</h2>
 
