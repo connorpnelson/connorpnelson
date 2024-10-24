@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Analytics Projects:</h2>
 
-- <b>Place holder</b>
+- <b>Sales Analysis</b>
   - [Analyzing E-Commerce Data](https://github.com/connorpnelson/ECommerceSales)
 
 <h2>👨‍💻 SQL & Python Practice</h2>
